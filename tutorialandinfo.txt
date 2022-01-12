@@ -1,0 +1,20 @@
+Hello, free Fake PSU Obfuscator BOT Source code. You have to install : 1- https://github.com/rjpcomputing/luaforwindows/releases 2- requirements.cmd
+
+Originally made by menprotect (https://github.com/Singularity5490/menprotect)
+Current code is just re-modified to PSU Obfuscator, you can do script logger easy with this source.
+Use at your own risk / you are response only for stealed scripts!
+
+
+I got error :
+(node:8864) UnhandledPromiseRejectionWarning: Error [TOKEN_INVALID]: An invalid token was provided.
+    at WebSocketManager.connect (C:\Users\urpcnameshit\Desktop\Fake PSU Bot Source\node_modules\discord.js\src\client\websocket\WebSocketManager.js:133:26)
+    at Client.login (C:\Users\urpcnameshit\Desktop\Fake PSU Bot Source\node_modules\discord.js\src\client\Client.js:222:21)
+(node:8864) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+(node:8864) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+Press any key to continue . . .
+
+How to fix this?
+Put your real Discord Bot token into config.json
+
+NOTE: Originally made by menprotect (https://github.com/Singularity5490/menprotect)
+Credits to menprotect
